@@ -28,7 +28,7 @@ The updater for BlueMaxima's Flashpoint.
 1. Install Python 3.
 2. Clone the repository.
 3. Run in the project root: `pip install -r requirements.txt`
-4. Use it like: `update.py /media/ext1/Flashpoint <flashpoint-path> -u <current-version> <target-version>`
+4. Use it like: `update.py <flashpoint-path> -u <current-version> <target-version>`
 
 Or launch the GUI version with `update_gui.py`.
 
